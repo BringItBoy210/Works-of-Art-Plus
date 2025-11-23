@@ -1,0 +1,13 @@
+{
+    "name": "Works of Art Plus",
+    "id": "works.oap",
+    "version": ".1",
+    "supported_game_version": "1.0.*",
+    "short_description": "Adds new works of art in the game",
+    "tags": [
+        "Culture & Art",
+        "Historical"
+    ],
+    "relationships": [],
+    "game_custom_data": {}
+}
